@@ -54,7 +54,7 @@ class DecoratedMessage extends StatelessWidget {
           ),
           SizedBox(height: 16),
           Text(
-            'りんかさん頑張れ！！',
+            '夜勤おつかれさまぁ',
             style: TextStyle(
               fontSize: 28,
               fontWeight: FontWeight.bold,
