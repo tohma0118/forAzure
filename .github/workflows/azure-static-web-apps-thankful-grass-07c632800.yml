@@ -14,7 +14,7 @@ jobs:
       # Flutterセットアップ
       - uses: subosito/flutter-action@v2
         with:
-          flutter-version: 'stable'
+          flutter-version: '3.0.0'
 
       # Flutter Webビルド
       - name: Build Flutter Web
